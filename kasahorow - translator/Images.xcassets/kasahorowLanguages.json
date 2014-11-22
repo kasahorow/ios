@@ -1,0 +1,64 @@
+{
+  "array": [
+    {
+      "language": "Yoruba",
+      "url": "http://yo.kasahorow.org?utm_source=ios&utm_medium=yo&utm_campaign=lit",
+      "abb" : "yo"
+    },
+    {
+      "language": "Wolof",
+      "url": "http://wo.kasahorow.org?utm_source=ios&utm_medium=wo&utm_campaign=lit",
+      "abb" : "wo"
+    },
+    {
+      "language": "Swahili",
+      "url": "http://sw.kasahorow.org?utm_source=ios&utm_medium=sw&utm_campaign=lit",
+      "abb" : "sw"
+    },
+    {
+      "language": "Luganda",
+      "url": "http://lg.kasahorow.org?utm_source=ios&utm_medium=lg&utm_campaign=lit",
+      "abb" : "lg"
+    },
+    {
+      "language": "Lingala",
+      "url": "http://ln.kasahorow.org?utm_source=ios&utm_medium=ln&utm_campaign=lit",
+      "abb" : "ln"
+    },
+    {
+      "language": "Inglish",
+      "url": "http://en.kasahorow.org?utm_source=ios&utm_medium=en&utm_campaign=lit",
+      "abb" : "en"
+    },
+    {
+      "language": "Igbo",
+      "url": "http://ig.kasahorow.org?utm_source=ios&utm_medium=ig&utm_campaign=lit",
+      "abb" : "ig"
+    },
+    {
+      "language": "Hausa",
+      "url": "http://ha.kasahorow.org?utm_source=ios&utm_medium=ha&utm_campaign=lit",
+      "abb" : "ha"
+    },
+    {
+      "language": "Gikuyu",
+      "url": "http://ki.kasahorow.org?utm_source=ios&utm_medium=ki&utm_campaign=lit",
+      "abb" : "ki"
+    },
+    {
+      "language": "Gbe",
+      "url": "http://ee.kasahorow.org?utm_source=ios&utm_medium=ee&utm_campaign=lit",
+      "abb" : "ee"
+    },
+    {
+      "language": "Gadangme",
+      "url": "http://ga.kasahorow.org?utm_source=ios&utm_medium=ga&utm_campaign=lit",
+      "abb" : "ga"
+    },
+    {
+      "language": "Akan",
+      "url": "http://ak.kasahorow.org?utm_source=ios&utm_medium=ak&utm_campaign=lit",
+      "abb" : "ak"
+    }
+  ]
+}
